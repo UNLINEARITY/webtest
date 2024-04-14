@@ -1,0 +1,17 @@
+title:AOANG
+
+
+owner: 
+  name: Hanlin Cai
+  avatar: hanlin.jpg (根目录下的图片)
+  email: 2486759368@qq.com
+  github: UNLINEARITY
+  linkedin: unlinearity
+
+links:
+  - title: About Me（可依照个人需求修改，下同）
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Projects
+    url: /projects/
