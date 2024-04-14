@@ -9,9 +9,7 @@ owner:
   linkedin: unlinearity
 
 links:
-  - title: About Me（可依照个人需求修改，下同）
-    url: /
-  - title: Publications
-    url: /publications/
-  - title: Projects
-    url: /projects/
+
+
+timezone: China/Beijing
+future: true
